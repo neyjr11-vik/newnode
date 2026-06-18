@@ -5,7 +5,7 @@
 
 //non primitive reference types
 
-//arraysobjects,functions
+//arrays,objects,functions
 
 
 //USAGE:--
