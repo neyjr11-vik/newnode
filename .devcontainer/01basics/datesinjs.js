@@ -1,0 +1,15 @@
+let myDate =new Date()
+console.log(myDate)
+console.log(myDate.toString())
+console.log(myDate.toLocaleString())
+console.log(myDate.toDateString())
+console.log(typeof myDate)
+  
+
+let myDate2= new Date("1-14-2023")
+let timestamp=Date.now()
+console.log(timestamp)
+console.log(myDate2.getTime())
+console.log(myDate2.getMonth()+1)
+console.log(myDate2.getDay())
+console.log(myDate2.toLocaleDateString('default',{weekday : "long"}))
